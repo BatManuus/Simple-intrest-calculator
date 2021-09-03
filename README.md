@@ -1,1 +1,1 @@
-# vftvk-simple-intrest-calculator
+# Rugved-simple-intrest-calculator
